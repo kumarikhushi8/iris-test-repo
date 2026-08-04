@@ -1,0 +1,6 @@
+{
+  "name": "iris-test-repo",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
